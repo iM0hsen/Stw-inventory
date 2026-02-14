@@ -1,4 +1,5 @@
 # Stw Fight Inventory
+# Qb Inventory Redesign For Fight File
 
 تم إنشاء هذا السكربت بالكامل من الصفر بواسطة **Stw Store**.
 
